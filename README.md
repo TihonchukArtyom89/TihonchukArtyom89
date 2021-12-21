@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TihonchukArtyom89
+- 👋 Hi, I’m Artyom Tihonchuk
 - 👀 I’m interested in Artificial neural network(ANN), web-programming and game developing(UE)
-- 🌱 I’m currently learning Orchard Core CMS, ASP.NET Core
+- 🌱 I’m currently learning best practices in ASP.NET Core, ASP.NET 
 - 💞️ I’m looking to collaborate on gamedev(UE) and ANN projects 
 
 <!---
